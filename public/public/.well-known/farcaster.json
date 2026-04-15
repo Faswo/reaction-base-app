@@ -1,0 +1,22 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Reaction Base App",
+    "homeUrl": "https://reaction-base-app.vercel.app",
+    "iconUrl": "https://reaction-base-app.vercel.app/icon.png",
+    "splashImageUrl": "https://reaction-base-app.vercel.app/icon.png",
+    "splashBackgroundColor": "#0052FF",
+    "tagline": "Save your best score on Base",
+    "description": "A mini reaction game where you test your reflexes and save your best score on Base.",
+    "primaryCategory": "games",
+    "tags": ["game", "reaction", "base", "onchain"],
+    "ogTitle": "Reaction Base App",
+    "ogDescription": "Save your best score on Base",
+    "ogImageUrl": "https://reaction-base-app.vercel.app/icon.png"
+  }
+}
